@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 Hi!
-I'm Abhinove, a grad student in physics from India. Welcome to my webpage. 
+I'm Abhinove, a grad student in physics. \\ 
+I intend to use this site to talk about my research interests, and maybe discuss some of the things I'm learning and store notes/problems. Maybe I can even use this site to discuss a few of my other interests.  \\ 
+
+Welcome to my webpage!
+
 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhinove's Webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Abhinove Nagarajan S"
 description              : &description "personal description"
