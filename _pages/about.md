@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi!
-I'm Abhinove, a grad student in physics.
+I'm Abhinove, a prospective graduate student in physics.
 I intend to use this site to talk about my research interests, and discuss some of the things I'm learning and store notes/problems. Occassionally I might discuss a few of my other interests.   
 
 Welcome to my webpage!
