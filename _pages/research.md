@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-Broadly, I'm interested in problems in gravity and high energy theory. Specifically, I want to explore problems in QFT in curved spacetime, holography and the relationship between quantum field theories and gravity theories.
+Broadly, I'm interested in problems in gravity and high energy theory. Specifically, I want to explore problems in QFT in curved spacetime, holography, cosmology, and the relationship between quantum field theories and gravity theories.
 
 Currently, I'm working on thermodynamic aspects of scalar-tensor gravity, using the fluid/gravity correspondence. The idea is to try to build a dictionary between the two subjects to see how fluid dynamics can help us effectively interpret two different descriptions of scalar-tensor gravity. 
 
-I would also like to understand quantum mechanical aspects of gravity; how quantum entanglement or superposition affects the notion of spacetime. This was one of the motivations to study the differences in quantum entanglement between gravitons in de Sitter spacetime and in Minkowski spacetime. I am also interested in answering these questions through holographic methods in the future. 
+I would also like to understand quantum mechanical aspects of gravity; how quantum entanglement or superposition affects the notion of spacetime. This was one of the motivations to study the differences in quantum entanglement between gravitons in de Sitter spacetime and in Minkowski spacetime. I am also interested in answering these questions through holographic methods in the future and seeing whether cosmology can help us test some of these hypotheses.  
 
 For my master's thesis I worked on superradiance in a quantum corrected black hole solution. 
 
