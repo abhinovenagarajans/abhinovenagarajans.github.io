@@ -15,6 +15,6 @@ For my master's [thesis](https://abhinovenagarajans.github.io/files/M.Sc.-Thesis
 
 Previously, I have also worked on a few aspects of statistical mechanics and complex systems. I find the universality of statistical mechanics quite fascinating. My projects have included trying to understand the neural network of the Macaque monkey through the Ising model, or looking at riffle shuffles that casinos use through the mathematical machinery of Markov chains. I also find the computational aspect of statistical mechanics (and physics in general) quite engaging. 
 
-My thesis and publications can be found in the Publications section. You can also see my INSPIRE [page](https://inspirehep.net/authors/2094576). 
+My publications are available on my INSPIRE [page](https://inspirehep.net/authors/2094576). 
 
 
