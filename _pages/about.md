@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi!
-I'm Abhinove, a Junior Research Fellow in the Department of Physics, IIT Guwahati.
+I'm Abhinove, a PhD student in [CRAG](https://gravity-cosmology.sites.sheffield.ac.uk/) research group at the School of Mathematics and Statistics at the University of Sheffield.
 I intend to use this site to talk about my research interests, and discuss some of the things I'm learning and store notes/problems. Occassionally I might discuss a few of my other interests.   
 
 Welcome to my webpage!
