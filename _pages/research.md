@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Broadly, I'm interested in problems in gravity and high energy theory. In October 2023, I began a PhD at the University of Sheffield with Dr. Sam Dolan where I'm working on self force theory and fields in curved spacetime. I am also interested in the relationship between quantum field theories and gravity theories and the implications for cosmology. 
+Broadly, I'm interested in problems in gravity and high energy theory. In October 2023, I began a PhD at the University of Sheffield with [Sam Dolan](https://sam-dolan.sites.sheffield.ac.uk) where I'm working on self force theory and fields in curved spacetime. I am also interested in the relationship between quantum field theories and gravity theories and the implications for cosmology. 
 
 Previously, as a Junior Research Fellow at the Indian Institute of Technology Guwahati, I worked on thermodynamic aspects of scalar-tensor gravity, using the fluid/gravity correspondence. The idea is to try to build a dictionary between the two subjects to see how fluid thermodynamics can help us effectively interpret different descriptions of gravity sometimes even as an emergent phenomenon. 
 
